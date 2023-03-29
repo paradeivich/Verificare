@@ -3,8 +3,7 @@ using System.Configuration;
 using LibrarieModele;
 using NivelStocareDate;
 
-namespace EvidentaCarti_Consola
-{
+namespace EvidentaCarti_Consola1
     class Program
     {
         static void Main()
