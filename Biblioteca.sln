@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvidentaCarti_Consola", "EvidentaStudenti_Consola\EvidentaCarti_Consola.csproj", "{DD43BD77-F722-4F8F-A4B0-D7FDBD73B02F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvidentaCarti_Consola", "EvidentaStudenti_Consola\EvidentaCarti_Consola1.csproj", "{DD43BD77-F722-4F8F-A4B0-D7FDBD73B02F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibrarieModele", "LibrarieModele\LibrarieModele.csproj", "{F1211EC3-AA38-43F2-AB19-D0549CA25F03}"
 EndProject
